@@ -10,8 +10,8 @@ import hmac
 import hashlib
 import threading
 import random
-API_KEY = 'mx0vglHE7FT5tuMenR'
-SECRET_KEY = 'b48104e2f82d4d3cb4b06061b5f0cc5d1'
+API_KEY = ''
+SECRET_KEY = ''
 SYMBOLS = ['NODEUSDT', 'COPPERUSDT', 'FRAGUSDT']
 PAIRS = {} 
 CHECK_INTERVAL = 0.05
